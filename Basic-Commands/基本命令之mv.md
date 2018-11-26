@@ -12,3 +12,5 @@
   3. 重命名文件
     mv ./Desktop/folderB ./Desktop/renamedFolderB
     mv ./Desktop/fileB ./Desktop/renamedFileB
+##注意事项
+&emsp;&emsp;为防止误操作覆盖掉有用的文件，可以添加 -i 选项
